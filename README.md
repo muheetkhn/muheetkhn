@@ -1,4 +1,4 @@
-# Hi, I'm Muheet Khan 👋
+# Hi, I'm Moheet Khan 👋
 
 ### 📊 Data Analyst | SQL | Power BI | Tableau | Excel
 
@@ -92,9 +92,9 @@ I'm a Data Analyst passionate about turning raw data into actionable insights th
 
 ## 📫 Connect With Me
 
-📧 [your-email@gmail.com](mailto:your-email@gmail.com)
+📧  Email: muheetkhn01@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/moheet-khan-49b4013b9/
 
 ---
 
